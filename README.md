@@ -4,7 +4,7 @@
 
 
 💼 &nbsp;I am a pro Android developer.\
-🎓 &nbsp;I'm currently studying Software Engineering at University of Sciene - Vietnam National University.\
+🎓 &nbsp;I graduated in Software Engineering at University of Sciene - Vietnam National University.\
 📌 &nbsp;I'm currently working with Kotlin Multiplatform Mobile (KMM).\
 🎮 &nbsp;Astronomy, Chess, Taekwondo, Video game are my hobbies.\
 📄 &nbsp; Please have a look at my [Résumé](https://www.linkedin.com/in/duy-pham-helios/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACtsWvkBFqTkmzvE-HDthD6CStD6k7eNDug,1635455824311)/) for more details about me. I'm open to feedback and suggestions!
