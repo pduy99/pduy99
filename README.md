@@ -6,7 +6,7 @@
 💼 &nbsp;I’m a professional Android developer with a strong focus on building high-performance native Android, WearOS, and Automotive applications.\
 🎓 &nbsp;I hold a degree in Software Engineering from the University of Science – Vietnam National University.\
 📌 &nbsp;I’m passionate about crafting efficient, user-centric mobile experiences and continuously improving my technical skills.\
-📄 &nbsp;Feel free to check out my [Résumé](https://phpduy.info/resume) and [Portfolio](https://phpduy.info) for more details. I’m always open to feedback and suggestions!
+📄 &nbsp;Feel free to check out my [Résumé](https://phpduy.info/resume) and [Portfolio](https://phpduy.dev) for more details. I’m always open to feedback and suggestions!
 
 ### ⚙️ &nbsp;GitHub Analytics
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
